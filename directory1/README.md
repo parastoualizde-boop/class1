@@ -1,3 +1,3 @@
 # class1
-input("wahts yor name?")
+input("whats yor name?")
 print(f"hello, {name}")
